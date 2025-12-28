@@ -1,4 +1,4 @@
-FitLife Training Center - Cost Management System
+⚖️ FitLife Training Center - Cost Management System
 Developed for NextGen Software Labs (NSL), this Java-based console application allows the FitLife Training Center to manage client registrations and calculate monthly training costs.
 
 The program focuses on data integrity, input validation, and clear financial reporting for fitness classes, personal training, and wellness workshops.
@@ -15,3 +15,12 @@ Eligibility Enforcement: Logic restricts Wellness Workshop attendance to only In
 Financial Reporting: Outputs a clear, itemized list of all fees formatted in LKR to two decimal places.
 
 Assesment Logic: Compares a client's current fitness level against their enrolled class to provide a training assessment.
+
+🚀 How to Run
+Import the project into VScode/ Eclipse IDE.
+
+Ensure you have the Java Development Kit (JDK) installed.
+
+Right-click FitLifeApp.java and select Run As > Java Application.
+
+Follow the prompts in the console window.
